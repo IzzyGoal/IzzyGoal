@@ -17,5 +17,5 @@ I'm a Software Developer
   
  ![Snake animation](https://github.com/wallanpsantos/wallanpsantos/blob/output/github-contribution-grid-snake.svg)
   
-### :octocat: &nbsp;Github Stats
+### :octocat: &nbsp;Contact Me
 # 🤝🏻  <a href="https://www.linkedin.com/in/gabriel-silva-lima-0a2b7a188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
