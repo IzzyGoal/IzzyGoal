@@ -3,7 +3,7 @@
 I'm a Software Developer 
 
 ### 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
 
 ### :octocat: &nbsp;Github Stats
